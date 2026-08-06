@@ -1,0 +1,14 @@
+Royal-Lux-Beauty-Club/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+│
+├── assets/
+│   ├── images/
+│   ├── logo/
+│   └── icons/
+│
+└── README.md
